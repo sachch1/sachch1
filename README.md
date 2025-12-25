@@ -1,18 +1,17 @@
-# 👋 Hi, I'm Sachchi  
+# Sachchi — Security & Cloud-Native Architect
 
-🚀 **Security Specialist | DevSecOps Consultant | Cloud-Native Architect**
+I design and secure **cloud-native platforms** for regulated,
+high-risk, and production-critical environments.
 
-I help organizations **secure, automate, and scale** their infrastructure through:
-- 🔐 DevSecOps: CI/CD security, GitOps with ArgoCD, Trivy/Gitleaks/Bandit integrations
-- ☸️ Kubernetes & Containers: Cilium, MetalLB, Prometheus, Zero Trust workloads
-- ⚙️ Infrastructure Automation: Ansible, Terraform, Docker, IaC compliance
-- 🛡️ Cloud & Network Security: Apache reverse proxies, SSL/TLS automation, PF firewall automation
+My work focuses on **architecture decisions, threat modeling,
+and operational security**, not just tooling.
 
----
-## 🏆 Featured Projects
-- 🔥 [Firewall Automation](https://gitlab.gitlogy.com/yourrepo)
-- ☸️ [Kubernetes GitOps Stack](https://github.com/yourrepo)
-- 🛡️ [DevSecOps Workshop](https://github.com/yourrepo)
-- 🔑 [IAM & SSO Lab](https://github.com/yourrepo)
+## What I Do
+- Secure Kubernetes & cloud-native platforms
+- DevSecOps by design (CI/CD, supply chain, GitOps)
+- Zero Trust & workload identity
+- Incident-driven security architecture
 
-📬 Let’s connect: [gitlogy.com](https://gitlogy.com) | [LinkedIn](https://linkedin.com/in/YOURPROFILE)
+👉 [View my architecture work](projects.md)
+👉 [My expertise](expertise.md)
+
